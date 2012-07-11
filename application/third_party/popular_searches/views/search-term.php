@@ -1,0 +1,1 @@
+<a href="<?php print $url?>" class="popular-search popular-search-<?php print $score?>"><?php print $term?></a>

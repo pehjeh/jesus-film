@@ -1,0 +1,67 @@
+/* For IE 7 & 8 ONLY */
+
+.grid-row {
+	background:url(images/shadow-vert-outsideb.png) repeat-y;
+}
+.grid-2 {
+	background:url(images/shadow-vert-shared.png) repeat-y top right;
+}
+.grid-2+.grid-2 {
+	background:none;
+}
+.grid-3 {
+	background:url(images/shadow-vert-shared.png) repeat-y top right;
+}
+
+.grid-content {
+	margin:0;
+}
+
+.top,
+.bottom {
+    display:block;
+	margin:0 -20px;
+	height:20px;
+}
+
+.grid-1 .top {
+	margin-left:0;
+	background:url(images/shadow-hor-top-right-25b.png) no-repeat;
+}
+.grid-2 .top {
+	margin-right:0;
+	background:url(images/shadow-hor-top-left-50b.png) no-repeat;
+}
+.grid-2+.grid-2 .top {
+	margin-right:-20px;
+	margin-left:0;
+    background:url(images/shadow-hor-top-right-50b.png) no-repeat;
+}
+.grid-3 .top {
+	margin-right:0;
+	background:url(images/shadow-hor-top-left-75b.png) no-repeat;
+}
+.grid-4 .top {
+    background:url(images/shadow-hor-top-100b.png) no-repeat;	
+}
+
+
+.grid-4 .language-select a {
+	display:inline;
+	position:relative;
+}
+
+.social-menu {
+	min-width:216px;
+}
+.social-menu li {
+	float:left;
+}
+.fb,
+.twitter,
+.email,
+.download,
+.embed,
+.rss {
+	float:left;
+}

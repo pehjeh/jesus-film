@@ -1,0 +1,5 @@
+<h1>FAQ PAGE</h1>
+
+<p>Nam vel lectus et felis tincidunt ultricies. Integer pharetra fringilla dui a euismod. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec ac lectus est. Ut rhoncus, sem et feugiat accumsan, nunc sem posuere risus, vel tempus diam lorem in ante. Duis tincidunt mauris fermentum mauris gravida tincidunt. Aliquam euismod rhoncus venenatis. Nam cursus augue non tortor tincidunt mollis. Proin eget nulla sit amet tellus tristique faucibus a eget nibh. Pellentesque lacinia mauris ultricies ante sagittis auctor. Aliquam tempus lacus sit amet odio tincidunt bibendum.</p>
+
+<p>Curabitur vehicula nisi non libero mattis ullamcorper id id urna. Nullam in convallis mi. Donec suscipit neque vel lacus aliquet et pretium erat dignissim. Sed eros dolor, egestas a aliquam ac, blandit a mauris. Mauris dictum placerat pellentesque. Praesent elementum dignissim blandit. Proin ultricies ultricies accumsan. Maecenas ut est ac libero volutpat ornare. Cras ac tristique ipsum.</p>
